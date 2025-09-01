@@ -1,18 +1,22 @@
 {
   "images" : [
     {
+      "filename" : "wafflewolf.jpg",
       "idiom" : "universal",
-      "scale" : "1x",
-      "filename" : "wafflewolf.jpg"
+      "scale" : "1x"
+    },
+    {
+      "filename" : "wafflewolf@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
     },
     {
       "idiom" : "universal",
-      "scale" : "2x",
-      "filename" : "wafflewolf@2x.jpg"
+      "scale" : "3x"
     }
   ],
   "info" : {
-    "version" : 1,
-    "author" : "xcode"
+    "author" : "xcode",
+    "version" : 1
   }
 }

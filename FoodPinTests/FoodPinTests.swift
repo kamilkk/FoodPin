@@ -2,8 +2,8 @@
 //  FoodPinTests.swift
 //  FoodPinTests
 //
-//  Created by Kamil Kowalski on 20.06.2015.
-//  Copyright (c) 2015 Kamil Kowalski. All rights reserved.
+//  Created by Kamil Kowalski on 01/09/2025.
+//  Copyright © 2025 Kamil Kowalski. All rights reserved.
 //
 
 import UIKit
